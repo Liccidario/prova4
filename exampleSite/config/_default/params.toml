@@ -24,7 +24,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 search = true
 
 # featured post title
-featured_post_title = "Featured Post"
+featured_post_title = "In primo piano"
 recent_post_title = "Recent Post"
 mainSections = ["blog"]
 # about widget content
